@@ -1,0 +1,6 @@
+{
+  "name": "Namazi - Islamic Companion",
+  "description": "Minimalist Islamic companion featuring location-based prayer times, next prayer countdown, digital tasbih with vibration feedback, real-time smart Qibla compass, authentic categorized Duas with audio recitation, and Hijri calendar with customizable Azan notifications.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
